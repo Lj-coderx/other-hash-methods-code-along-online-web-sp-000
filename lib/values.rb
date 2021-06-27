@@ -10,5 +10,6 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
+  alphabetical_order = {c: 100, d: 1}
   groceries.values.flatten
 end
